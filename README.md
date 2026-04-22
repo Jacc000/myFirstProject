@@ -13,7 +13,7 @@ The project presents the user with a menu and prompts them to withdraw money, de
 4) If you wish to cancel withdrawing or depositing money, input 0
 5) To exit the program, press the number to exit the program on the main menu.
 
-##Example
+##Example Output
 Please input your account balance:
 **5000**
 Welcome, user. What would you like to do?
