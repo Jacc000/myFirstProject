@@ -69,4 +69,6 @@ Thank you, and goodbye.
 ## Author
 Jason Ardan Chodur
 
+## Collaboration Acknowledgement
+This project was reviewed and edited by rmj-aster-007 on GitHub
 // Edit added by Alexi A. Soriano
