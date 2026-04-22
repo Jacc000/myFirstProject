@@ -15,7 +15,8 @@ The project presents the user with a menu and prompts them to withdraw money, de
 
 ## Example Output:
 Please input your account balance: 
-5000
+
+**5000**
 Welcome, user. What would you like to do?
 [0] Exit 
 [1] Withdraw 
