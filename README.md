@@ -14,7 +14,7 @@ The project presents the user with a menu and prompts them to withdraw money, de
 5) To exit the program, press the number to exit the program on the main menu.
 
 ##Example:
-Please input your account balance: 
+Please input your account balance:
 **5000**
 Welcome, user. What would you like to do?
 [0] Exit 
