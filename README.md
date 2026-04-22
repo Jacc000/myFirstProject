@@ -17,27 +17,54 @@ The project presents the user with a menu and prompts them to withdraw money, de
 Please input your account balance: 
 
 **5000**
+
 Welcome, user. What would you like to do?
+
 [0] Exit 
+
 [1] Withdraw 
+
 [2] Deposit
-1
+
+**1**
+
 You have $5000.0
+
 Input the amount you wish to withdraw: 
-20
+
+**20**
+
 $20.0 withdrawn successfully.
+
 Welcome, user. What would you like to do?
+
 [0] Exit 
+
 [1] Withdraw 
+
 [2] Deposit
-2
+
+**2**
+
 You have $ 4980.0
+
 Input the amount you wish to deposit: 
-10
+
+**10**
+
 $10.0 deposited successfully
+
 Welcome, user. What would you like to do?
+
 [0] Exit 
+
 [1] Withdraw 
+
 [2] Deposit
-0
+
+**0**
+
 Thank you, and goodbye.
+
+## Author
+Jason Ardan Chodur
