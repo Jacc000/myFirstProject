@@ -2,7 +2,7 @@
 First project posted to GitHub. This was a lab assignment to test out the while loop by making a simple ATM. I decided to add the ability to deposit in addition to withdrawing.
 
 ## Lab: ATM
-The project presents the user with a menu and prompts them to withdraw money, deposit money, or exit the program. As these actions are done, the user's balance (in the program) is updated. The user is unable to withdraw more money than is stored in their account. The user can deposit any amount of money.
+The project presents the user with a menu and prompts them to withdraw, deposit, or exit the program. As these actions are done, the user's balance (in the program) is updated. The user cannot withdraw more money than is in their account. The user can deposit any amount of money.
 
 **This project does not use real money!!**
 
@@ -68,3 +68,5 @@ Thank you, and goodbye.
 
 ## Author
 Jason Ardan Chodur
+
+// Edit added by Alexi A. Soriano
